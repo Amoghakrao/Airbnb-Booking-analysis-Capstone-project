@@ -1,4 +1,5 @@
-![image](https://github.com/Amoghakrao/Airbnb-Booking-analysis-Capstone-project/assets/109468603/30b57b08-4c2f-4bff-9aca-81c5af11977a)
+![image](https://github.com/Amoghakrao/Airbnb-Booking-analysis-Capstone-project/assets/109468603/851874b9-1ac0-44a2-a394-f30f2b4496c9)
+
 
 Airbnb (ABNB) is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in specific locales.We have our dataset from Airbnb based on NY and it has 48,895 rows and 16 columns. NY is the most expensive city in the USA. 
 
